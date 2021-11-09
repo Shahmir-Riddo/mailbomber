@@ -48,7 +48,7 @@ from time import sleep
 from requests.structures import CaseInsensitiveDict
 os.system('clear')
  
-print(g+'\tShahmir '+r+'Riddo '+y+'^'+c+'Than '+p+'|')
+print(g+'\tNamaz '+r+'Is '+y+'Better '+c+'Than '+p+'Sleep')
 print('')
 os.system('figlet -f small EmailBomb |lolcat')
 print(g+'==========='+y+'ᴀᴜᴛʜᴏʀ~ᴍᴏʜᴀᴍᴍᴀᴅ ᴀʟᴀᴍɪɴ'+g+'===========')
